@@ -1,0 +1,16 @@
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\AntiAlias\GUIAAChar4.c
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\GUI.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\LCD_Protected.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\GUIDebug.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\GUI_X.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
+..\output\guiaachar4.o: ..\Third_Party\GUI\Config\LCDConf.h

@@ -1,0 +1,11 @@
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\Widget\HEADER_CreateIndirect.c
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\Widget\HEADER.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\Core\GUI.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\WM\WM.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
+..\output\header_createindirect.o: ..\Third_Party\GUI\GUI\Widget\DIALOG_Intern.h

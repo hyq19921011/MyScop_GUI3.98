@@ -1,0 +1,10 @@
+..\output\maintask.o: ..\Third_Party\GUI\GUIDemo\MainTask.c
+..\output\maintask.o: ..\Third_Party\GUI\GUI\Core\GUI.h
+..\output\maintask.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\maintask.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\maintask.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\maintask.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\maintask.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h
+..\output\maintask.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO.h
+..\output\maintask.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
+..\output\maintask.o: ..\Third_Party\GUI\Config\LCDConf.h

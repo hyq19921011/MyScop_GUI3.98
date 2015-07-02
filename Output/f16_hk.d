@@ -1,0 +1,9 @@
+..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Font\F16_HK.c
+..\output\f16_hk.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\GUI_FontIntern.h
+..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\GUI.h
+..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\f16_hk.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h

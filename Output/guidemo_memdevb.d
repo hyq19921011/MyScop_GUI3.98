@@ -1,0 +1,13 @@
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO_MemDevB.c
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\Core\GUI.H
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO.H
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\Config\LCDConf.h
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\WM\WM.h
+..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
+..\output\guidemo_memdevb.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h

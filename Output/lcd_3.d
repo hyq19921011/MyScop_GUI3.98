@@ -1,0 +1,12 @@
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\MultiLayer\LCD_3.c
+..\output\lcd_3.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
+..\output\lcd_3.o: ..\Third_Party\GUI\Config\LCDConf.h
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\lcd_3.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\Core\LCD_Protected.h
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\Core\GUI.h
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\lcd_3.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h

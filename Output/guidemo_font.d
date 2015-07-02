@@ -1,0 +1,11 @@
+..\output\guidemo_font.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO_Font.c
+..\output\guidemo_font.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guidemo_font.o: ..\Third_Party\GUI\GUI\Core\GUI.H
+..\output\guidemo_font.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\guidemo_font.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\guidemo_font.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\guidemo_font.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\guidemo_font.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h
+..\output\guidemo_font.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO.H
+..\output\guidemo_font.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
+..\output\guidemo_font.o: ..\Third_Party\GUI\Config\LCDConf.h

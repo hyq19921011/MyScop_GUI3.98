@@ -1,0 +1,12 @@
+..\output\guidemo_graph.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO_Graph.c
+..\output\guidemo_graph.o: ..\Third_Party\GUI\GUI\Core\GUI.h
+..\output\guidemo_graph.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\guidemo_graph.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\guidemo_graph.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\guidemo_graph.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\guidemo_graph.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h
+..\output\guidemo_graph.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
+..\output\guidemo_graph.o: ..\Third_Party\GUI\Config\LCDConf.h
+..\output\guidemo_graph.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\guidemo_graph.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\guidemo_graph.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO.h

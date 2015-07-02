@@ -1,0 +1,9 @@
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\GUI\Widget\CHECKBOX_CreateIndirect.c
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\GUI\Widget\CHECKBOX.h
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\GUI\WM\WM.h
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
+..\output\checkbox_createindirect.o: ..\Third_Party\GUI\GUI\Widget\DIALOG_Intern.h

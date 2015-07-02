@@ -1,0 +1,13 @@
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\GUIVal.c
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\GUI.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
+..\output\guival.o: ..\Third_Party\GUI\Config\GUIConf.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\GUIType.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\LCD.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\LCD_Protected.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\GUIDebug.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\Core\GUI_X.h
+..\output\guival.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
+..\output\guival.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
