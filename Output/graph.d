@@ -1,5 +1,5 @@
 ..\output\graph.o: ..\Third_Party\GUI\GUI\Widget\GRAPH.c
-..\output\graph.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\graph.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\graph.o: ..\Third_Party\GUI\GUI\Widget\GRAPH_Private.h
 ..\output\graph.o: ..\Third_Party\GUI\GUI\Widget\GRAPH.h
 ..\output\graph.o: ..\Third_Party\GUI\GUI\WM\WM.h

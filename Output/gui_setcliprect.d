@@ -1,5 +1,5 @@
 ..\output\gui_setcliprect.o: ..\Third_Party\GUI\GUI\Core\GUI_SetClipRect.c
-..\output\gui_setcliprect.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_setcliprect.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_setcliprect.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_setcliprect.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\gui_setcliprect.o: ..\Third_Party\GUI\Config\GUIConf.h

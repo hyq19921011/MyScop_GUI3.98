@@ -1,6 +1,6 @@
 ..\output\button.o: ..\Third_Party\GUI\GUI\Widget\BUTTON.c
-..\output\button.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\button.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\button.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\button.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\button.o: ..\Third_Party\GUI\GUI\Widget\BUTTON_Private.h
 ..\output\button.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\button.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

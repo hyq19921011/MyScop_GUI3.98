@@ -1,5 +1,5 @@
 ..\output\guidemo_dialog.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO_Dialog.c
-..\output\guidemo_dialog.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guidemo_dialog.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\guidemo_dialog.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guidemo_dialog.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\guidemo_dialog.o: ..\Third_Party\GUI\Config\GUIConf.h

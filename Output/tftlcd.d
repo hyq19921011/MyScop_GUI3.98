@@ -2,7 +2,7 @@
 ..\output\tftlcd.o: ..\Hardware\lcd\TFTlcd.h
 ..\output\tftlcd.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\tftlcd.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\tftlcd.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\tftlcd.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\tftlcd.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\tftlcd.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\tftlcd.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h
@@ -39,6 +39,6 @@
 ..\output\tftlcd.o: ..\Hardware\lcd\fonts.h
 ..\output\tftlcd.o: ..\Hardware\usart\usart.h
 ..\output\tftlcd.o: ..\Hardware\lcd\GBK2312.h
-..\output\tftlcd.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\tftlcd.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\tftlcd.o: ..\Hardware\Time3_PWM\pwm.h
-..\output\tftlcd.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\tftlcd.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

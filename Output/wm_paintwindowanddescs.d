@@ -1,5 +1,5 @@
 ..\output\wm_paintwindowanddescs.o: ..\Third_Party\GUI\GUI\WM\WM_PaintWindowAndDescs.c
-..\output\wm_paintwindowanddescs.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\wm_paintwindowanddescs.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\wm_paintwindowanddescs.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\wm_paintwindowanddescs.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\wm_paintwindowanddescs.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

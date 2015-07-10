@@ -1,5 +1,5 @@
 ..\output\lcdrle8.o: ..\Third_Party\GUI\GUI\Core\LCDRLE8.c
-..\output\lcdrle8.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdrle8.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdrle8.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\lcdrle8.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\lcdrle8.o: ..\Third_Party\GUI\GUI\Core\GUI.h

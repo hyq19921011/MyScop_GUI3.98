@@ -1,6 +1,6 @@
 ..\output\header.o: ..\Third_Party\GUI\GUI\Widget\HEADER.c
-..\output\header.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\header.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\header.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\header.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\header.o: ..\Third_Party\GUI\GUI\Widget\HEADER_Private.h
 ..\output\header.o: ..\Third_Party\GUI\GUI\Widget\WIDGET.h
 ..\output\header.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h

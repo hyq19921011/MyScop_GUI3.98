@@ -1,5 +1,5 @@
 ..\output\checkbox_gettext.o: ..\Third_Party\GUI\GUI\Widget\CHECKBOX_GetText.c
-..\output\checkbox_gettext.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\checkbox_gettext.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\checkbox_gettext.o: ..\Third_Party\GUI\GUI\Widget\CHECKBOX_Private.h
 ..\output\checkbox_gettext.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\checkbox_gettext.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

@@ -1,5 +1,5 @@
 ..\output\wmtouch.o: ..\Third_Party\GUI\GUI\WM\WMTouch.c
-..\output\wmtouch.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\wmtouch.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\wmtouch.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\wmtouch.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\wmtouch.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

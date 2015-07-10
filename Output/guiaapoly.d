@@ -14,6 +14,6 @@
 ..\output\guiaapoly.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\guiaapoly.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\guiaapoly.o: ..\Third_Party\GUI\Config\LCDConf.h
-..\output\guiaapoly.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\guiaapoly.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
-..\output\guiaapoly.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\guiaapoly.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\guiaapoly.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\guiaapoly.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

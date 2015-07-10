@@ -1,6 +1,6 @@
 ..\output\gui_log.o: ..\Third_Party\GUI\GUI\Core\GUI_Log.c
-..\output\gui_log.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\gui_log.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\gui_log.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\gui_log.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\gui_log.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_log.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_log.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

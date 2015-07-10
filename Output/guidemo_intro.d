@@ -8,4 +8,4 @@
 ..\output\guidemo_intro.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO.H
 ..\output\guidemo_intro.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\guidemo_intro.o: ..\Third_Party\GUI\Config\LCDConf.h
-..\output\guidemo_intro.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\guidemo_intro.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

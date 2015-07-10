@@ -1,5 +1,5 @@
 ..\output\editfloat.o: ..\Third_Party\GUI\GUI\Widget\EDITFloat.c
-..\output\editfloat.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\editfloat.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ..\output\editfloat.o: ..\Third_Party\GUI\GUI\Widget\EDIT_Private.h
 ..\output\editfloat.o: ..\Third_Party\GUI\GUI\Widget\EDIT.h
 ..\output\editfloat.o: ..\Third_Party\GUI\GUI\WM\WM.h

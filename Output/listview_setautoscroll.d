@@ -1,6 +1,6 @@
 ..\output\listview_setautoscroll.o: ..\Third_Party\GUI\GUI\Widget\LISTVIEW_SetAutoScroll.c
-..\output\listview_setautoscroll.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\listview_setautoscroll.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\listview_setautoscroll.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\listview_setautoscroll.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\listview_setautoscroll.o: ..\Third_Party\GUI\GUI\Widget\GUI_ARRAY.h
 ..\output\listview_setautoscroll.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\listview_setautoscroll.o: ..\Third_Party\GUI\GUI\WM\WM.h

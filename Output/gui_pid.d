@@ -1,7 +1,7 @@
 ..\output\gui_pid.o: ..\Third_Party\GUI\GUI\Core\GUI_PID.c
-..\output\gui_pid.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\gui_pid.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\gui_pid.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\gui_pid.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\gui_pid.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\gui_pid.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\gui_pid.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\gui_pid.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\gui_pid.o: ..\Third_Party\GUI\Config\LCDConf.h

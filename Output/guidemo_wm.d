@@ -1,5 +1,5 @@
 ..\output\guidemo_wm.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO_WM.c
-..\output\guidemo_wm.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\guidemo_wm.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\guidemo_wm.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guidemo_wm.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\guidemo_wm.o: ..\Third_Party\GUI\Config\GUIConf.h

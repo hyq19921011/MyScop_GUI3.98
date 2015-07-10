@@ -1,5 +1,5 @@
 ..\output\dialog.o: ..\Third_Party\GUI\GUI\Widget\DIALOG.c
-..\output\dialog.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\dialog.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\dialog.o: ..\Third_Party\GUI\GUI\Widget\DIALOG.h
 ..\output\dialog.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\dialog.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

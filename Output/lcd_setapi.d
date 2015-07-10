@@ -1,5 +1,5 @@
 ..\output\lcd_setapi.o: ..\Third_Party\GUI\GUI\Core\LCD_SetAPI.c
-..\output\lcd_setapi.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcd_setapi.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcd_setapi.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\lcd_setapi.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\lcd_setapi.o: ..\Third_Party\GUI\GUI\Core\GUI.h

@@ -1,6 +1,6 @@
 ..\output\framewin_settitlevis.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN_SetTitleVis.c
-..\output\framewin_settitlevis.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\framewin_settitlevis.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\framewin_settitlevis.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\framewin_settitlevis.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\framewin_settitlevis.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN_Private.h
 ..\output\framewin_settitlevis.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\framewin_settitlevis.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

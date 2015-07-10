@@ -1,6 +1,6 @@
 ..\output\menu.o: ..\Third_Party\GUI\GUI\Widget\MENU.c
-..\output\menu.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\menu.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\menu.o: ..\Third_Party\GUI\GUI\Widget\MENU.h
 ..\output\menu.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\menu.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

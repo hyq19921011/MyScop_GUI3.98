@@ -7,6 +7,6 @@
 ..\output\guidemo_graph.o: ..\Third_Party\GUI\GUI\Core\GUIVersion.h
 ..\output\guidemo_graph.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\guidemo_graph.o: ..\Third_Party\GUI\Config\LCDConf.h
-..\output\guidemo_graph.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
-..\output\guidemo_graph.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\guidemo_graph.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\output\guidemo_graph.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\guidemo_graph.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO.h

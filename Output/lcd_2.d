@@ -1,5 +1,5 @@
 ..\output\lcd_2.o: ..\Third_Party\GUI\GUI\MultiLayer\LCD_2.c
-..\output\lcd_2.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcd_2.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcd_2.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\lcd_2.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\lcd_2.o: ..\Third_Party\GUI\Config\LCDConf.h

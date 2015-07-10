@@ -1,5 +1,5 @@
 ..\output\guidemo_speed.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO_Speed.c
-..\output\guidemo_speed.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\guidemo_speed.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\guidemo_speed.o: ..\Third_Party\GUI\GUI\Core\GUI.H
 ..\output\guidemo_speed.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\guidemo_speed.o: ..\Third_Party\GUI\Config\GUIConf.h

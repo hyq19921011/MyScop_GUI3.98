@@ -1,8 +1,8 @@
 ..\output\scop_menu.o: ..\Hardware\scope\scop_menu.c
 ..\output\scop_menu.o: ..\Hardware\scope\scop_menu.h
-..\output\scop_menu.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\scop_menu.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
-..\output\scop_menu.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\scop_menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\scop_menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\output\scop_menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\scop_menu.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\scop_menu.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\scop_menu.o: ..\Third_Party\GUI\Config\GUIConf.h
@@ -41,7 +41,7 @@
 ..\output\scop_menu.o: ..\User\main.h
 ..\output\scop_menu.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\scop_menu.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\scop_menu.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\scop_menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\scop_menu.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\scop_menu.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\scop_menu.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h
@@ -74,8 +74,8 @@
 ..\output\scop_menu.o: ..\Libraries\FWlib\inc\stm32f4xx_usart.h
 ..\output\scop_menu.o: ..\Libraries\FWlib\inc\stm32f4xx_wwdg.h
 ..\output\scop_menu.o: ..\Libraries\FWlib\inc\misc.h
-..\output\scop_menu.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\scop_menu.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\scop_menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\scop_menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\scop_menu.o: ..\Hardware\scope\scope.h
 ..\output\scop_menu.o: ..\Hardware\delay\delay.h
 ..\output\scop_menu.o: ..\Hardware\adc\bsp_adc.h

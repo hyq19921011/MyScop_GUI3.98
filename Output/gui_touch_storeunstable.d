@@ -1,5 +1,5 @@
 ..\output\gui_touch_storeunstable.o: ..\Third_Party\GUI\GUI\Core\GUI_TOUCH_StoreUnstable.c
-..\output\gui_touch_storeunstable.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\gui_touch_storeunstable.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\gui_touch_storeunstable.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_touch_storeunstable.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_touch_storeunstable.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

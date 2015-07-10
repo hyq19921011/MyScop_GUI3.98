@@ -1,5 +1,5 @@
 ..\output\gui_hook.o: ..\Third_Party\GUI\GUI\Widget\GUI_HOOK.c
-..\output\gui_hook.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_hook.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_hook.o: ..\Third_Party\GUI\GUI\Widget\GUI_HOOK.h
 ..\output\gui_hook.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\gui_hook.o: ..\Third_Party\GUI\GUI\WM\WM.h

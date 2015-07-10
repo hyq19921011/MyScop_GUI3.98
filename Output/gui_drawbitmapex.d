@@ -14,4 +14,4 @@
 ..\output\gui_drawbitmapex.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\gui_drawbitmapex.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\gui_drawbitmapex.o: ..\Third_Party\GUI\Config\LCDConf.h
-..\output\gui_drawbitmapex.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\gui_drawbitmapex.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

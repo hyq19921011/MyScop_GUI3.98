@@ -1,5 +1,5 @@
 ..\output\guidev_getysize.o: ..\Third_Party\GUI\GUI\MemDev\GUIDEV_GetYSize.c
-..\output\guidev_getysize.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\guidev_getysize.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\guidev_getysize.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guidev_getysize.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guidev_getysize.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

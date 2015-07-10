@@ -1,5 +1,5 @@
 ..\output\editulong.o: ..\Third_Party\GUI\GUI\Widget\EDITUlong.c
-..\output\editulong.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\editulong.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\editulong.o: ..\Third_Party\GUI\GUI\Widget\EDIT_Private.h
 ..\output\editulong.o: ..\Third_Party\GUI\GUI\Widget\EDIT.h
 ..\output\editulong.o: ..\Third_Party\GUI\GUI\WM\WM.h

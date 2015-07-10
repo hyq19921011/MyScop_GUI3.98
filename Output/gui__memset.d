@@ -1,6 +1,6 @@
 ..\output\gui__memset.o: ..\Third_Party\GUI\GUI\Core\GUI__memset.c
-..\output\gui__memset.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\gui__memset.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\gui__memset.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui__memset.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\gui__memset.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui__memset.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui__memset.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

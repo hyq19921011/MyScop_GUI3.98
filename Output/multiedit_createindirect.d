@@ -1,5 +1,5 @@
 ..\output\multiedit_createindirect.o: ..\Third_Party\GUI\GUI\Widget\MULTIEDIT_CreateIndirect.c
-..\output\multiedit_createindirect.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\multiedit_createindirect.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\multiedit_createindirect.o: ..\Third_Party\GUI\GUI\Widget\MULTIEDIT.h
 ..\output\multiedit_createindirect.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\multiedit_createindirect.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

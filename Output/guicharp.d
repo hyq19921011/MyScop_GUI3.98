@@ -1,5 +1,5 @@
 ..\output\guicharp.o: ..\Third_Party\GUI\GUI\Core\GUICharP.c
-..\output\guicharp.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guicharp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\guicharp.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\guicharp.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guicharp.o: ..\Third_Party\GUI\GUI\Core\GUI.h

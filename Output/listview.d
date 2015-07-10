@@ -13,8 +13,8 @@
 ..\output\listview.o: ..\Third_Party\GUI\GUI\Core\LCD_Protected.h
 ..\output\listview.o: ..\Third_Party\GUI\GUI\Core\GUIDebug.h
 ..\output\listview.o: ..\Third_Party\GUI\GUI\Core\GUI_X.h
-..\output\listview.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\listview.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\listview.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\listview.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\listview.o: ..\Third_Party\GUI\GUI\Widget\LISTVIEW_Private.h
 ..\output\listview.o: ..\Third_Party\GUI\GUI\Widget\LISTVIEW.h
 ..\output\listview.o: ..\Third_Party\GUI\GUI\Widget\DIALOG.h

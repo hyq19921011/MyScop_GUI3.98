@@ -1,5 +1,5 @@
 ..\output\guidev_usage.o: ..\Third_Party\GUI\GUI\MemDev\GUIDEV_Usage.c
-..\output\guidev_usage.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\guidev_usage.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\guidev_usage.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guidev_usage.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guidev_usage.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

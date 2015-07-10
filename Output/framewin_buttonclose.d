@@ -1,6 +1,6 @@
 ..\output\framewin_buttonclose.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN_ButtonClose.c
-..\output\framewin_buttonclose.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\framewin_buttonclose.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\framewin_buttonclose.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\framewin_buttonclose.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\framewin_buttonclose.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\framewin_buttonclose.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\framewin_buttonclose.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

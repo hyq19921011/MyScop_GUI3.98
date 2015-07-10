@@ -2,7 +2,7 @@
 ..\output\bsp_dac.o: ..\Hardware\DAC\bsp_dac.h
 ..\output\bsp_dac.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\bsp_dac.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\bsp_dac.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\bsp_dac.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\bsp_dac.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\bsp_dac.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\bsp_dac.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h
@@ -36,9 +36,9 @@
 ..\output\bsp_dac.o: ..\Libraries\FWlib\inc\stm32f4xx_wwdg.h
 ..\output\bsp_dac.o: ..\Libraries\FWlib\inc\misc.h
 ..\output\bsp_dac.o: ..\Hardware\scope\scope.h
-..\output\bsp_dac.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\bsp_dac.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
-..\output\bsp_dac.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\bsp_dac.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\bsp_dac.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\output\bsp_dac.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\bsp_dac.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\bsp_dac.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\bsp_dac.o: ..\Third_Party\GUI\Config\GUIConf.h

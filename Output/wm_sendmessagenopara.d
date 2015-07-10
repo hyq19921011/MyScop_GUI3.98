@@ -1,5 +1,5 @@
 ..\output\wm_sendmessagenopara.o: ..\Third_Party\GUI\GUI\WM\WM_SendMessageNoPara.c
-..\output\wm_sendmessagenopara.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\wm_sendmessagenopara.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\wm_sendmessagenopara.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\wm_sendmessagenopara.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\wm_sendmessagenopara.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

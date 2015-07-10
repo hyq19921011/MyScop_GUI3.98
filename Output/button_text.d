@@ -1,6 +1,6 @@
 ..\output\button_text.o: ..\Third_Party\GUI\sample\Button_text.c
 ..\output\button_text.o: ..\Third_Party\GUI\sample\button_text.h
-..\output\button_text.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\button_text.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\button_text.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\button_text.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\button_text.o: ..\Third_Party\GUI\Config\GUIConf.h

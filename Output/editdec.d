@@ -1,5 +1,5 @@
 ..\output\editdec.o: ..\Third_Party\GUI\GUI\Widget\EDITDec.c
-..\output\editdec.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\editdec.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\editdec.o: ..\Third_Party\GUI\GUI\Widget\EDIT_Private.h
 ..\output\editdec.o: ..\Third_Party\GUI\GUI\Widget\EDIT.h
 ..\output\editdec.o: ..\Third_Party\GUI\GUI\WM\WM.h

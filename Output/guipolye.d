@@ -1,5 +1,5 @@
 ..\output\guipolye.o: ..\Third_Party\GUI\GUI\Core\GUIPolyE.c
-..\output\guipolye.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\guipolye.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ..\output\guipolye.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guipolye.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\guipolye.o: ..\Third_Party\GUI\Config\GUIConf.h

@@ -1,5 +1,5 @@
 ..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Font\F16_HK.c
-..\output\f16_hk.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\f16_hk.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\GUI_FontIntern.h
 ..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\f16_hk.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

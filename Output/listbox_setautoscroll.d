@@ -1,6 +1,6 @@
 ..\output\listbox_setautoscroll.o: ..\Third_Party\GUI\GUI\Widget\LISTBOX_SetAutoScroll.c
-..\output\listbox_setautoscroll.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\listbox_setautoscroll.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\listbox_setautoscroll.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\listbox_setautoscroll.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\listbox_setautoscroll.o: ..\Third_Party\GUI\GUI\Widget\GUI_ARRAY.h
 ..\output\listbox_setautoscroll.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\listbox_setautoscroll.o: ..\Third_Party\GUI\GUI\WM\WM.h

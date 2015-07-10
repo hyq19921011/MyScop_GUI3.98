@@ -1,6 +1,6 @@
 ..\output\guicharline.o: ..\Third_Party\GUI\GUI\Core\GUICharLine.c
-..\output\guicharline.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\guicharline.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\guicharline.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guicharline.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\guicharline.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guicharline.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guicharline.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

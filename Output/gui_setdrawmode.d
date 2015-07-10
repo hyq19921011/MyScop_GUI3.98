@@ -1,5 +1,5 @@
 ..\output\gui_setdrawmode.o: ..\Third_Party\GUI\GUI\Core\GUI_SetDrawMode.c
-..\output\gui_setdrawmode.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_setdrawmode.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_setdrawmode.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_setdrawmode.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_setdrawmode.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

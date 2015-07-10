@@ -1,5 +1,5 @@
 ..\output\graph_scale.o: ..\Third_Party\GUI\GUI\Widget\GRAPH_SCALE.c
-..\output\graph_scale.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\graph_scale.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\graph_scale.o: ..\Third_Party\GUI\GUI\Widget\GRAPH_Private.h
 ..\output\graph_scale.o: ..\Third_Party\GUI\GUI\Widget\GRAPH.h
 ..\output\graph_scale.o: ..\Third_Party\GUI\GUI\WM\WM.h

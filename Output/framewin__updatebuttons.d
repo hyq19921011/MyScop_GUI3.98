@@ -1,6 +1,6 @@
 ..\output\framewin__updatebuttons.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN__UpdateButtons.c
-..\output\framewin__updatebuttons.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\framewin__updatebuttons.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\framewin__updatebuttons.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\framewin__updatebuttons.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\framewin__updatebuttons.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN_Private.h
 ..\output\framewin__updatebuttons.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\framewin__updatebuttons.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

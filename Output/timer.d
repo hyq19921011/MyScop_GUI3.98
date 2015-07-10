@@ -2,7 +2,7 @@
 ..\output\timer.o: ..\Hardware\timer\timer.h
 ..\output\timer.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\timer.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\timer.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\timer.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\timer.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\timer.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\timer.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h
@@ -37,9 +37,9 @@
 ..\output\timer.o: ..\Libraries\FWlib\inc\misc.h
 ..\output\timer.o: ..\Hardware\led\led.h
 ..\output\timer.o: ..\Hardware\scope\scope.h
-..\output\timer.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\timer.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
-..\output\timer.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\timer.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\timer.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\output\timer.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\timer.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\timer.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\timer.o: ..\Third_Party\GUI\Config\GUIConf.h

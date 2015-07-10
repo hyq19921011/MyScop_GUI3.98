@@ -1,5 +1,5 @@
 ..\output\button_getbitmap.o: ..\Third_Party\GUI\GUI\Widget\BUTTON_GetBitmap.c
-..\output\button_getbitmap.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\button_getbitmap.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\button_getbitmap.o: ..\Third_Party\GUI\GUI\Widget\BUTTON_Private.h
 ..\output\button_getbitmap.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\button_getbitmap.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

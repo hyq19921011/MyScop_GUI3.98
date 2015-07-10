@@ -1,6 +1,6 @@
 ..\output\framewin_settitleheight.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN_SetTitleHeight.c
-..\output\framewin_settitleheight.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\framewin_settitleheight.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\framewin_settitleheight.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\framewin_settitleheight.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\framewin_settitleheight.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN_Private.h
 ..\output\framewin_settitleheight.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\framewin_settitleheight.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

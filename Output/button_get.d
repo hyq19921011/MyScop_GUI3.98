@@ -1,5 +1,5 @@
 ..\output\button_get.o: ..\Third_Party\GUI\GUI\Widget\BUTTON_Get.c
-..\output\button_get.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\button_get.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\button_get.o: ..\Third_Party\GUI\GUI\Widget\BUTTON.h
 ..\output\button_get.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\button_get.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

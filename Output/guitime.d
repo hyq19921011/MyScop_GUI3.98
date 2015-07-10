@@ -1,5 +1,5 @@
 ..\output\guitime.o: ..\Third_Party\GUI\GUI\Core\GUITime.c
-..\output\guitime.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guitime.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\guitime.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guitime.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guitime.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

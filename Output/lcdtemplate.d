@@ -1,5 +1,5 @@
 ..\output\lcdtemplate.o: ..\Third_Party\GUI\GUI\LCDDriver\LCDTemplate.c
-..\output\lcdtemplate.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdtemplate.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdtemplate.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\lcdtemplate.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\lcdtemplate.o: ..\Third_Party\GUI\Config\LCDConf.h
@@ -18,7 +18,7 @@
 ..\output\lcdtemplate.o: ..\Hardware\lcd\TFTlcd.h
 ..\output\lcdtemplate.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\lcdtemplate.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\lcdtemplate.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\lcdtemplate.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\lcdtemplate.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\lcdtemplate.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\lcdtemplate.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

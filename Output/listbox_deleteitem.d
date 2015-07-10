@@ -1,5 +1,5 @@
 ..\output\listbox_deleteitem.o: ..\Third_Party\GUI\GUI\Widget\LISTBOX_DeleteItem.c
-..\output\listbox_deleteitem.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\listbox_deleteitem.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\listbox_deleteitem.o: ..\Third_Party\GUI\GUI\Widget\LISTBOX_Private.h
 ..\output\listbox_deleteitem.o: ..\Third_Party\GUI\GUI\Widget\LISTBOX.h
 ..\output\listbox_deleteitem.o: ..\Third_Party\GUI\GUI\WM\WM.h

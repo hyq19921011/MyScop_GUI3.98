@@ -1,5 +1,5 @@
 ..\output\lcd_getnumdisplays.o: ..\Third_Party\GUI\GUI\Core\LCD_GetNumDisplays.c
-..\output\lcd_getnumdisplays.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcd_getnumdisplays.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcd_getnumdisplays.o: ..\Third_Party\GUI\GUI\Core\LCD.h
 ..\output\lcd_getnumdisplays.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\lcd_getnumdisplays.o: ..\Third_Party\GUI\Config\GUIConf.h

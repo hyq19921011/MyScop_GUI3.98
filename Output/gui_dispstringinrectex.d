@@ -1,5 +1,5 @@
 ..\output\gui_dispstringinrectex.o: ..\Third_Party\GUI\GUI\Core\GUI_DispStringInRectEx.c
-..\output\gui_dispstringinrectex.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_dispstringinrectex.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_dispstringinrectex.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\gui_dispstringinrectex.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_dispstringinrectex.o: ..\Third_Party\GUI\GUI\Core\GUI.h

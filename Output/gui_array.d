@@ -13,4 +13,4 @@
 ..\output\gui_array.o: ..\Third_Party\GUI\GUI\Core\LCD_Protected.h
 ..\output\gui_array.o: ..\Third_Party\GUI\GUI\Core\GUIDebug.h
 ..\output\gui_array.o: ..\Third_Party\GUI\GUI\Core\GUI_X.h
-..\output\gui_array.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\gui_array.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

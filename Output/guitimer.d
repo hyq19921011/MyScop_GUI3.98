@@ -1,5 +1,5 @@
 ..\output\guitimer.o: ..\Third_Party\GUI\GUI\Core\GUITimer.c
-..\output\guitimer.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guitimer.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\guitimer.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guitimer.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guitimer.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

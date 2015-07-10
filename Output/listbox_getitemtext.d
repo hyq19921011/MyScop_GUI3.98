@@ -19,4 +19,4 @@
 ..\output\listbox_getitemtext.o: ..\Third_Party\GUI\GUI\Widget\DIALOG_Intern.h
 ..\output\listbox_getitemtext.o: ..\Third_Party\GUI\GUI\Widget\WIDGET.h
 ..\output\listbox_getitemtext.o: ..\Third_Party\GUI\GUI\Widget\GUI_ARRAY.h
-..\output\listbox_getitemtext.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\listbox_getitemtext.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

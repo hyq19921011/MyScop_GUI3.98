@@ -1,5 +1,5 @@
 ..\output\edithex.o: ..\Third_Party\GUI\GUI\Widget\EDITHex.c
-..\output\edithex.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\edithex.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\edithex.o: ..\Third_Party\GUI\GUI\Widget\EDIT_Private.h
 ..\output\edithex.o: ..\Third_Party\GUI\GUI\Widget\EDIT.h
 ..\output\edithex.o: ..\Third_Party\GUI\GUI\WM\WM.h

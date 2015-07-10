@@ -1,5 +1,5 @@
 ..\output\gui_cursorcrossmpx.o: ..\Third_Party\GUI\GUI\Core\GUI_CursorCrossMPx.c
-..\output\gui_cursorcrossmpx.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\gui_cursorcrossmpx.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\gui_cursorcrossmpx.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_cursorcrossmpx.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_cursorcrossmpx.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

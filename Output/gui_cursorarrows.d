@@ -1,5 +1,5 @@
 ..\output\gui_cursorarrows.o: ..\Third_Party\GUI\GUI\Core\GUI_CursorArrowS.c
-..\output\gui_cursorarrows.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\gui_cursorarrows.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\gui_cursorarrows.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_cursorarrows.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_cursorarrows.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

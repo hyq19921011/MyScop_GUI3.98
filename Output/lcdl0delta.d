@@ -1,5 +1,5 @@
 ..\output\lcdl0delta.o: ..\Third_Party\GUI\GUI\Core\LCDL0Delta.c
-..\output\lcdl0delta.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdl0delta.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdl0delta.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\lcdl0delta.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\lcdl0delta.o: ..\Third_Party\GUI\GUI\Core\GUI.h

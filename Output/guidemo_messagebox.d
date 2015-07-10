@@ -1,5 +1,5 @@
 ..\output\guidemo_messagebox.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO_Messagebox.c
-..\output\guidemo_messagebox.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guidemo_messagebox.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\guidemo_messagebox.o: ..\Third_Party\GUI\GUI\Core\GUI.H
 ..\output\guidemo_messagebox.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\guidemo_messagebox.o: ..\Third_Party\GUI\Config\GUIConf.h

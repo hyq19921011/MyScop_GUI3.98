@@ -1,5 +1,5 @@
 ..\output\gui_isinfont.o: ..\Third_Party\GUI\GUI\Core\GUI_IsInFont.c
-..\output\gui_isinfont.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_isinfont.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_isinfont.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_isinfont.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_isinfont.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

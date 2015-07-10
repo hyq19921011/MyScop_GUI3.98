@@ -1,5 +1,5 @@
 ..\output\lcd.o: ..\Third_Party\GUI\GUI\Core\LCD.c
-..\output\lcd.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\lcd.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\lcd.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\lcd.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\lcd.o: ..\Third_Party\GUI\GUI\Core\GUI.h

@@ -1,6 +1,6 @@
 ..\output\checkbox.o: ..\Third_Party\GUI\GUI\Widget\CHECKBOX.c
-..\output\checkbox.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\checkbox.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\checkbox.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\checkbox.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\checkbox.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\checkbox.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\checkbox.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

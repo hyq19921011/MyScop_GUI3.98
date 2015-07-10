@@ -4,7 +4,7 @@
 ..\output\spi.o: ..\Libraries\FWlib\inc\stm32f4xx_adc.h
 ..\output\spi.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\spi.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\spi.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\spi.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\spi.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\spi.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\spi.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

@@ -1,6 +1,6 @@
 ..\output\gui__settext.o: ..\Third_Party\GUI\GUI\Core\GUI__SetText.c
-..\output\gui__settext.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\gui__settext.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\gui__settext.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\gui__settext.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\gui__settext.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui__settext.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui__settext.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

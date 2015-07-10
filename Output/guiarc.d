@@ -1,6 +1,6 @@
 ..\output\guiarc.o: ..\Third_Party\GUI\GUI\Core\GUIArc.c
-..\output\guiarc.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\guiarc.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\guiarc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guiarc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ..\output\guiarc.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guiarc.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guiarc.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

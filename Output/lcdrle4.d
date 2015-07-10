@@ -1,5 +1,5 @@
 ..\output\lcdrle4.o: ..\Third_Party\GUI\GUI\Core\LCDRLE4.c
-..\output\lcdrle4.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdrle4.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdrle4.o: ..\Third_Party\GUI\GUI\Core\LCD.h
 ..\output\lcdrle4.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\lcdrle4.o: ..\Third_Party\GUI\Config\GUIConf.h

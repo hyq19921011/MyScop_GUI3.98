@@ -1,5 +1,5 @@
 ..\output\lcdlin.o: ..\Third_Party\GUI\GUI\LCDDriver\LCDLin.c
-..\output\lcdlin.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdlin.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdlin.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\lcdlin.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\lcdlin.o: ..\Third_Party\GUI\Config\LCDConf.h

@@ -1,5 +1,5 @@
 ..\output\guidev_8.o: ..\Third_Party\GUI\GUI\MemDev\GUIDEV_8.c
-..\output\guidev_8.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\guidev_8.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\guidev_8.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\guidev_8.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guidev_8.o: ..\Third_Party\GUI\GUI\Core\GUI.h

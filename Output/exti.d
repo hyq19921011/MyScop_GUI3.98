@@ -2,7 +2,7 @@
 ..\output\exti.o: ..\Hardware\exti\exti.h
 ..\output\exti.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\exti.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\exti.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\exti.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\exti.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\exti.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\exti.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

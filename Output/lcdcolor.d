@@ -1,5 +1,5 @@
 ..\output\lcdcolor.o: ..\Third_Party\GUI\GUI\Core\LCDColor.c
-..\output\lcdcolor.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdcolor.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdcolor.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\lcdcolor.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\lcdcolor.o: ..\Third_Party\GUI\GUI\Core\GUI.h

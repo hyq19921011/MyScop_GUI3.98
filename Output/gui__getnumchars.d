@@ -1,6 +1,6 @@
 ..\output\gui__getnumchars.o: ..\Third_Party\GUI\GUI\Core\GUI__GetNumChars.c
-..\output\gui__getnumchars.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\gui__getnumchars.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\gui__getnumchars.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui__getnumchars.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\gui__getnumchars.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui__getnumchars.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui__getnumchars.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

@@ -1,5 +1,5 @@
 ..\output\lcdnull.o: ..\Third_Party\GUI\GUI\LCDDriver\LCDNull.c
-..\output\lcdnull.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdnull.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdnull.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\lcdnull.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\lcdnull.o: ..\Third_Party\GUI\Config\LCDConf.h

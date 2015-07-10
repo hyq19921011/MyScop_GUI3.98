@@ -1,5 +1,5 @@
 ..\output\gui_setlutcolorex.o: ..\Third_Party\GUI\GUI\Core\GUI_SetLUTColorEx.c
-..\output\gui_setlutcolorex.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_setlutcolorex.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_setlutcolorex.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\gui_setlutcolorex.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_setlutcolorex.o: ..\Third_Party\GUI\GUI\Core\GUI.h

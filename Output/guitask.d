@@ -1,5 +1,5 @@
 ..\output\guitask.o: ..\Third_Party\GUI\GUI\Core\GUITask.c
-..\output\guitask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guitask.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\guitask.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guitask.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guitask.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

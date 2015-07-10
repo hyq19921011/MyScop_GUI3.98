@@ -546,7 +546,7 @@ void Get_Signal()//最后可以改为双通道的
 				}
 				if(DOWN_Flag)
 				{
-					if((AD_New_Buf[i]>=g_usTrigValue)&&(AD_New_Buf[i+1]<g_usTrigValue))
+					if((AD_New_Buf[i-2]>=g_usTrigValue)&&(AD_New_Buf[i]>=g_usTrigValue)&&(AD_New_Buf[i+2]<g_usTrigValue))
 					{	
 						break;
 					}

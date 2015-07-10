@@ -1,6 +1,6 @@
 ..\output\widget_effect_none.o: ..\Third_Party\GUI\GUI\Widget\WIDGET_Effect_None.c
-..\output\widget_effect_none.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\widget_effect_none.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\widget_effect_none.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\widget_effect_none.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\widget_effect_none.o: ..\Third_Party\GUI\GUI\Widget\WIDGET.h
 ..\output\widget_effect_none.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\widget_effect_none.o: ..\Third_Party\GUI\GUI\WM\WM.h

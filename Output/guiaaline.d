@@ -10,4 +10,4 @@
 ..\output\guiaaline.o: ..\Third_Party\GUI\GUI\Core\GUIDebug.h
 ..\output\guiaaline.o: ..\Third_Party\GUI\GUI\Core\GUI_X.h
 ..\output\guiaaline.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
-..\output\guiaaline.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guiaaline.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

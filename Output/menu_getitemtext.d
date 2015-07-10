@@ -1,5 +1,5 @@
 ..\output\menu_getitemtext.o: ..\Third_Party\GUI\GUI\Widget\MENU_GetItemText.c
-..\output\menu_getitemtext.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\menu_getitemtext.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\menu_getitemtext.o: ..\Third_Party\GUI\GUI\Widget\MENU.h
 ..\output\menu_getitemtext.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\menu_getitemtext.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

@@ -1,5 +1,5 @@
 ..\output\guicurs.o: ..\Third_Party\GUI\GUI\Core\GUICurs.c
-..\output\guicurs.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guicurs.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\guicurs.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\guicurs.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guicurs.o: ..\Third_Party\GUI\GUI\Core\GUI.h

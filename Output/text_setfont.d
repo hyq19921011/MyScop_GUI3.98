@@ -1,6 +1,6 @@
 ..\output\text_setfont.o: ..\Third_Party\GUI\GUI\Widget\TEXT_SetFont.c
-..\output\text_setfont.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\text_setfont.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\text_setfont.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\text_setfont.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\text_setfont.o: ..\Third_Party\GUI\GUI\Widget\TEXT_Private.h
 ..\output\text_setfont.o: ..\Third_Party\GUI\GUI\Widget\TEXT.h
 ..\output\text_setfont.o: ..\Third_Party\GUI\GUI\WM\WM.h

@@ -1,5 +1,5 @@
 ..\output\framewin_setresizeable.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN_SetResizeable.c
-..\output\framewin_setresizeable.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\framewin_setresizeable.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\framewin_setresizeable.o: ..\Third_Party\GUI\GUI\Widget\FRAMEWIN_Private.h
 ..\output\framewin_setresizeable.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\framewin_setresizeable.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

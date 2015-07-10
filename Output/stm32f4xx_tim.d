@@ -2,7 +2,7 @@
 ..\output\stm32f4xx_tim.o: ..\Libraries\FWlib\inc\stm32f4xx_tim.h
 ..\output\stm32f4xx_tim.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\stm32f4xx_tim.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\stm32f4xx_tim.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\stm32f4xx_tim.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\stm32f4xx_tim.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\stm32f4xx_tim.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\stm32f4xx_tim.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

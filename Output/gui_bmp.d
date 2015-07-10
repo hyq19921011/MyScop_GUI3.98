@@ -1,5 +1,5 @@
 ..\output\gui_bmp.o: ..\Third_Party\GUI\GUI\Core\GUI_BMP.c
-..\output\gui_bmp.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\gui_bmp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\gui_bmp.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\gui_bmp.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_bmp.o: ..\Third_Party\GUI\GUI\Core\GUI.h

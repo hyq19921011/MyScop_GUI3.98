@@ -10,4 +10,4 @@
 ..\output\gui_dispbin.o: ..\Third_Party\GUI\GUI\Core\GUIDebug.h
 ..\output\gui_dispbin.o: ..\Third_Party\GUI\GUI\Core\GUI_X.h
 ..\output\gui_dispbin.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
-..\output\gui_dispbin.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\gui_dispbin.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

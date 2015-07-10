@@ -1,5 +1,5 @@
 ..\output\radio_settext.o: ..\Third_Party\GUI\GUI\Widget\RADIO_SetText.c
-..\output\radio_settext.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\radio_settext.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\radio_settext.o: ..\Third_Party\GUI\GUI\Widget\RADIO_Private.h
 ..\output\radio_settext.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\radio_settext.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

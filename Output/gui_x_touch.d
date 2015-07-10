@@ -11,7 +11,7 @@
 ..\output\gui_x_touch.o: ..\Libraries\FWlib\inc\stm32f4xx_adc.h
 ..\output\gui_x_touch.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\gui_x_touch.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\gui_x_touch.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\gui_x_touch.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\gui_x_touch.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\gui_x_touch.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\gui_x_touch.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

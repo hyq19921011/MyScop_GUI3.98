@@ -1,5 +1,5 @@
 ..\output\gui_uc_dispstring.o: ..\Third_Party\GUI\GUI\Core\GUI_UC_DispString.c
-..\output\gui_uc_dispstring.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_uc_dispstring.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_uc_dispstring.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_uc_dispstring.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_uc_dispstring.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

@@ -10,4 +10,4 @@
 ..\output\gui_adddecmin.o: ..\Third_Party\GUI\GUI\Core\GUIDebug.h
 ..\output\gui_adddecmin.o: ..\Third_Party\GUI\GUI\Core\GUI_X.h
 ..\output\gui_adddecmin.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
-..\output\gui_adddecmin.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\gui_adddecmin.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

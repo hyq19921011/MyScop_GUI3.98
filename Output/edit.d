@@ -1,6 +1,6 @@
 ..\output\edit.o: ..\Third_Party\GUI\GUI\Widget\EDIT.c
-..\output\edit.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\edit.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\edit.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\edit.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\edit.o: ..\Third_Party\GUI\GUI\Widget\EDIT.h
 ..\output\edit.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\edit.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

@@ -3,7 +3,7 @@
 ..\output\mmc_sd.o: ..\Libraries\FWlib\inc\stm32f4xx_adc.h
 ..\output\mmc_sd.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\mmc_sd.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\mmc_sd.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\mmc_sd.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\mmc_sd.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\mmc_sd.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\mmc_sd.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

@@ -1,11 +1,11 @@
 ..\output\touch.o: ..\Hardware\touch\touch.c
-..\output\touch.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\touch.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\touch.o: ..\Hardware\touch\touch.h
 ..\output\touch.o: ..\User\stm32f4xx_conf.h
 ..\output\touch.o: ..\Libraries\FWlib\inc\stm32f4xx_adc.h
 ..\output\touch.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\touch.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\touch.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\touch.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\touch.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\touch.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\touch.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

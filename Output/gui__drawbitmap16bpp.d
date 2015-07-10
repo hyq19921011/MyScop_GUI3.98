@@ -1,5 +1,5 @@
 ..\output\gui__drawbitmap16bpp.o: ..\Third_Party\GUI\GUI\Core\GUI__DrawBitmap16bpp.c
-..\output\gui__drawbitmap16bpp.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui__drawbitmap16bpp.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui__drawbitmap16bpp.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\gui__drawbitmap16bpp.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui__drawbitmap16bpp.o: ..\Third_Party\GUI\GUI\Core\GUI.h

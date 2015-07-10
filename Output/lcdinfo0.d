@@ -1,5 +1,5 @@
 ..\output\lcdinfo0.o: ..\Third_Party\GUI\GUI\Core\LCDInfo0.c
-..\output\lcdinfo0.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdinfo0.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdinfo0.o: ..\Third_Party\GUI\GUI\Core\LCD.h
 ..\output\lcdinfo0.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\lcdinfo0.o: ..\Third_Party\GUI\Config\GUIConf.h

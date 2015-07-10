@@ -2,7 +2,7 @@
 ..\output\dac.o: ..\Hardware\DAC\dac.h
 ..\output\dac.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\dac.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\dac.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\dac.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\dac.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\dac.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\dac.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

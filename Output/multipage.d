@@ -1,6 +1,6 @@
 ..\output\multipage.o: ..\Third_Party\GUI\GUI\Widget\MULTIPAGE.c
-..\output\multipage.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\multipage.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\multipage.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\multipage.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\multipage.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\multipage.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\multipage.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

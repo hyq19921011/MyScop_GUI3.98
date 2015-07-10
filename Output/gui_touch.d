@@ -1,5 +1,5 @@
 ..\output\gui_touch.o: ..\Third_Party\GUI\GUI\Core\GUI_TOUCH.c
-..\output\gui_touch.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\gui_touch.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\gui_touch.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\gui_touch.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\gui_touch.o: ..\Third_Party\GUI\Config\LCDConf.h

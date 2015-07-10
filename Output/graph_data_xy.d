@@ -1,5 +1,5 @@
 ..\output\graph_data_xy.o: ..\Third_Party\GUI\GUI\Widget\GRAPH_DATA_XY.c
-..\output\graph_data_xy.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\graph_data_xy.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\graph_data_xy.o: ..\Third_Party\GUI\GUI\Widget\GRAPH_Private.h
 ..\output\graph_data_xy.o: ..\Third_Party\GUI\GUI\Widget\GRAPH.h
 ..\output\graph_data_xy.o: ..\Third_Party\GUI\GUI\WM\WM.h

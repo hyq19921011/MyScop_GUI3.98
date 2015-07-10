@@ -1,5 +1,5 @@
 ..\output\guidemo_font.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO_Font.c
-..\output\guidemo_font.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guidemo_font.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\guidemo_font.o: ..\Third_Party\GUI\GUI\Core\GUI.H
 ..\output\guidemo_font.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\guidemo_font.o: ..\Third_Party\GUI\Config\GUIConf.h

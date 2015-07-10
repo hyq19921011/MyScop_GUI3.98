@@ -4,7 +4,7 @@
 ..\output\scope.o: ..\Libraries\FWlib\inc\stm32f4xx_adc.h
 ..\output\scope.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\scope.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\scope.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\scope.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\scope.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\scope.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\scope.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h
@@ -35,9 +35,9 @@
 ..\output\scope.o: ..\Libraries\FWlib\inc\stm32f4xx_usart.h
 ..\output\scope.o: ..\Libraries\FWlib\inc\stm32f4xx_wwdg.h
 ..\output\scope.o: ..\Libraries\FWlib\inc\misc.h
-..\output\scope.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\scope.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
-..\output\scope.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\scope.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\scope.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\output\scope.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\scope.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\scope.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\scope.o: ..\Third_Party\GUI\Config\GUIConf.h
@@ -75,8 +75,8 @@
 ..\output\scope.o: ..\Hardware\scope\scop_menu.h
 ..\output\scope.o: ..\Third_Party\GUI\GUI\Widget\MULTIPAGE.h
 ..\output\scope.o: ..\User\main.h
-..\output\scope.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\scope.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\scope.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\scope.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\scope.o: ..\Hardware\scope\scope.h
 ..\output\scope.o: ..\Hardware\delay\delay.h
 ..\output\scope.o: ..\Hardware\adc\bsp_adc.h

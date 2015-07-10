@@ -1,6 +1,6 @@
 ..\output\slider.o: ..\Third_Party\GUI\GUI\Widget\SLIDER.c
-..\output\slider.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\slider.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\slider.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\slider.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\slider.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\slider.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\slider.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

@@ -2,7 +2,7 @@
 ..\output\misc.o: ..\Libraries\FWlib\inc\misc.h
 ..\output\misc.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\misc.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\misc.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\misc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\misc.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\misc.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\misc.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

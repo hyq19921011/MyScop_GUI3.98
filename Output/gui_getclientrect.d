@@ -1,5 +1,5 @@
 ..\output\gui_getclientrect.o: ..\Third_Party\GUI\GUI\Core\GUI_GetClientRect.c
-..\output\gui_getclientrect.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_getclientrect.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_getclientrect.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_getclientrect.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_getclientrect.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

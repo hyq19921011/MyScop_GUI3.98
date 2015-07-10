@@ -1,6 +1,6 @@
 ..\output\lcdmem.o: ..\Third_Party\GUI\GUI\LCDDriver\LCDMem.c
-..\output\lcdmem.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
-..\output\lcdmem.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\lcdmem.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\lcdmem.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\lcdmem.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\lcdmem.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\lcdmem.o: ..\Third_Party\GUI\Config\LCDConf.h

@@ -1,5 +1,5 @@
 ..\output\listview_getitemtext.o: ..\Third_Party\GUI\GUI\Widget\LISTVIEW_GetItemText.c
-..\output\listview_getitemtext.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\listview_getitemtext.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\listview_getitemtext.o: ..\Third_Party\GUI\GUI\Widget\LISTVIEW_Private.h
 ..\output\listview_getitemtext.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\listview_getitemtext.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

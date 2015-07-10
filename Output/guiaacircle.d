@@ -10,6 +10,6 @@
 ..\output\guiaacircle.o: ..\Third_Party\GUI\GUI\Core\GUIDebug.h
 ..\output\guiaacircle.o: ..\Third_Party\GUI\GUI\Core\GUI_X.h
 ..\output\guiaacircle.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
-..\output\guiaacircle.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\guiaacircle.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
-..\output\guiaacircle.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\guiaacircle.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\guiaacircle.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\guiaacircle.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

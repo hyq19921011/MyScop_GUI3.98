@@ -1,5 +1,5 @@
 ..\output\dropdown_addstring.o: ..\Third_Party\GUI\GUI\Widget\DROPDOWN_AddString.c
-..\output\dropdown_addstring.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\dropdown_addstring.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\dropdown_addstring.o: ..\Third_Party\GUI\GUI\Widget\DROPDOWN_Private.h
 ..\output\dropdown_addstring.o: ..\Third_Party\GUI\GUI\Widget\DROPDOWN.h
 ..\output\dropdown_addstring.o: ..\Third_Party\GUI\GUI\WM\WM.h

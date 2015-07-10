@@ -1,5 +1,5 @@
 ..\output\wm__sendmessage.o: ..\Third_Party\GUI\GUI\WM\WM__SendMessage.c
-..\output\wm__sendmessage.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\wm__sendmessage.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\wm__sendmessage.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\wm__sendmessage.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\wm__sendmessage.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

@@ -1,6 +1,6 @@
 ..\output\wm.o: ..\Third_Party\GUI\GUI\WM\WM.c
-..\output\wm.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\wm.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\wm.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\wm.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\wm.o: ..\Third_Party\GUI\GUI\WM\WM_Intern_ConfDep.h
 ..\output\wm.o: ..\Third_Party\GUI\GUI\WM\WM_Intern.h
 ..\output\wm.o: ..\Third_Party\GUI\GUI\WM\WM.h

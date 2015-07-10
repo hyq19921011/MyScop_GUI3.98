@@ -2,7 +2,7 @@
 ..\output\pwm_output.o: ..\Hardware\Time3_PWM\pwm_output.h
 ..\output\pwm_output.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\pwm_output.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\pwm_output.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\pwm_output.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\pwm_output.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\pwm_output.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\pwm_output.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

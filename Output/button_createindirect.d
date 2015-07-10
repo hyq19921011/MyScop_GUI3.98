@@ -1,5 +1,5 @@
 ..\output\button_createindirect.o: ..\Third_Party\GUI\GUI\Widget\BUTTON_CreateIndirect.c
-..\output\button_createindirect.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\button_createindirect.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\button_createindirect.o: ..\Third_Party\GUI\GUI\Widget\BUTTON_Private.h
 ..\output\button_createindirect.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\button_createindirect.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

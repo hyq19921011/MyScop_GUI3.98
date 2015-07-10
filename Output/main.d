@@ -2,7 +2,7 @@
 ..\output\main.o: ..\User\main.h
 ..\output\main.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\main.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\main.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\main.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\main.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h
@@ -35,12 +35,12 @@
 ..\output\main.o: ..\Libraries\FWlib\inc\stm32f4xx_usart.h
 ..\output\main.o: ..\Libraries\FWlib\inc\stm32f4xx_wwdg.h
 ..\output\main.o: ..\Libraries\FWlib\inc\misc.h
-..\output\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\main.o: ..\Hardware\scope\scope.h
-..\output\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
-..\output\main.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\output\main.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\main.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\main.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\main.o: ..\Third_Party\GUI\Config\GUIConf.h

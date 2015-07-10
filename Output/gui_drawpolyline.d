@@ -1,5 +1,5 @@
 ..\output\gui_drawpolyline.o: ..\Third_Party\GUI\GUI\Core\GUI_DrawPolyline.c
-..\output\gui_drawpolyline.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui_drawpolyline.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui_drawpolyline.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_drawpolyline.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_drawpolyline.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

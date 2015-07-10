@@ -1,5 +1,5 @@
 ..\output\edit_settextmode.o: ..\Third_Party\GUI\GUI\Widget\EDIT_SetTextMode.c
-..\output\edit_settextmode.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\edit_settextmode.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\edit_settextmode.o: ..\Third_Party\GUI\GUI\Widget\EDIT.h
 ..\output\edit_settextmode.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\edit_settextmode.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

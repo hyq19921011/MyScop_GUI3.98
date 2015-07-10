@@ -1,5 +1,5 @@
 ..\output\gui_setpixelindex.o: ..\Third_Party\GUI\GUI\Core\GUI_SetPixelIndex.c
-..\output\gui_setpixelindex.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\gui_setpixelindex.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\gui_setpixelindex.o: ..\Third_Party\GUI\GUI\Core\GUI_Private.h
 ..\output\gui_setpixelindex.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui_setpixelindex.o: ..\Third_Party\GUI\GUI\Core\GUI.h

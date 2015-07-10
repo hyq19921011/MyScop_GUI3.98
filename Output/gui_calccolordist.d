@@ -1,5 +1,5 @@
 ..\output\gui_calccolordist.o: ..\Third_Party\GUI\GUI\Core\GUI_CalcColorDist.c
-..\output\gui_calccolordist.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\gui_calccolordist.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\output\gui_calccolordist.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui_calccolordist.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h
 ..\output\gui_calccolordist.o: ..\Third_Party\GUI\Config\GUIConf.h

@@ -1,6 +1,6 @@
 ..\output\guialloc.o: ..\Third_Party\GUI\GUI\Core\GUIAlloc.c
-..\output\guialloc.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
-..\output\guialloc.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\guialloc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\guialloc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\guialloc.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guialloc.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guialloc.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

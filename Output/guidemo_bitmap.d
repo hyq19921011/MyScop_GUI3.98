@@ -8,6 +8,6 @@
 ..\output\guidemo_bitmap.o: ..\Third_Party\GUI\GUIDemo\GUIDEMO.h
 ..\output\guidemo_bitmap.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\guidemo_bitmap.o: ..\Third_Party\GUI\Config\LCDConf.h
-..\output\guidemo_bitmap.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\guidemo_bitmap.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ..\output\guidemo_bitmap.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\guidemo_bitmap.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h

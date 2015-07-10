@@ -1,8 +1,8 @@
 ..\output\guiaaarc.o: ..\Third_Party\GUI\GUI\AntiAlias\GUIAAArc.c
-..\output\guiaaarc.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
-..\output\guiaaarc.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\guiaaarc.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
-..\output\guiaaarc.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\guiaaarc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\guiaaarc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\guiaaarc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\guiaaarc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ..\output\guiaaarc.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\guiaaarc.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\guiaaarc.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

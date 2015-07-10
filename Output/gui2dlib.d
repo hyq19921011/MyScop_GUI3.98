@@ -1,5 +1,5 @@
 ..\output\gui2dlib.o: ..\Third_Party\GUI\GUI\Core\GUI2DLib.c
-..\output\gui2dlib.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\gui2dlib.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ..\output\gui2dlib.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\gui2dlib.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\gui2dlib.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

@@ -861,11 +861,11 @@ ARM Macro Assembler    Page 14
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
 erwork --depend=..\output\startup_stm32f4xx.d -o..\output\startup_stm32f4xx.o -
-IE:\重要文件\STM32F4\示波器\我的示波器\STM32F407_DISCOVERY_UCGUI(3.98)\Project\
-RTE -IC:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include -IC:\Keil\ARM\CM
-SIS\Include --predefine="__UVISION_VERSION SETA 514" --predefine="STM32F40_41xx
-x SETA 1" --list=..\listings\startup_stm32f4xx.lst ..\Startup\startup_stm32f4xx
-.s
+IE:\黄永全下载\MyScop_GUI3.98\Project\RTE -ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_
+DFP\2.4.0 -Id:\Keil_v5\ARM\CMSIS\Include -ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_D
+FP\2.4.0\Device\Include --predefine="__UVISION_VERSION SETA 514" --predefine="S
+TM32F407xx SETA 1" --list=..\listings\startup_stm32f4xx.lst ..\Startup\startup_
+stm32f4xx.s
 
 
 

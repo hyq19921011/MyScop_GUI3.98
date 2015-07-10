@@ -2,7 +2,7 @@
 ..\output\led.o: ..\Hardware\led\led.h
 ..\output\led.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\led.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\led.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\led.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\led.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\led.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\led.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h

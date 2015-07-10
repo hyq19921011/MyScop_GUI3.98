@@ -1,6 +1,6 @@
 ..\output\scrollbar.o: ..\Third_Party\GUI\GUI\Widget\SCROLLBAR.c
-..\output\scrollbar.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
-..\output\scrollbar.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\scrollbar.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\scrollbar.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ..\output\scrollbar.o: ..\Third_Party\GUI\GUI\Core\GUI_Protected.h
 ..\output\scrollbar.o: ..\Third_Party\GUI\GUI\Core\GUI.h
 ..\output\scrollbar.o: ..\Third_Party\GUI\GUI\Core\GUI_ConfDefaults.h

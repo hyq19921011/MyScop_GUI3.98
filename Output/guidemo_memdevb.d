@@ -10,4 +10,4 @@
 ..\output\guidemo_memdevb.o: ..\Third_Party\GUI\Config\LCDConf.h
 ..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\WM\WM.h
 ..\output\guidemo_memdevb.o: ..\Third_Party\GUI\GUI\WM\WM_GUI.h
-..\output\guidemo_memdevb.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\guidemo_memdevb.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

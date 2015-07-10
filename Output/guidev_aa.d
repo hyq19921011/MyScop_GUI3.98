@@ -14,4 +14,4 @@
 ..\output\guidev_aa.o: ..\Third_Party\GUI\GUI\Core\LCD_Private.h
 ..\output\guidev_aa.o: ..\Third_Party\GUI\GUI\Core\LCD_ConfDefaults.h
 ..\output\guidev_aa.o: ..\Third_Party\GUI\Config\LCDConf.h
-..\output\guidev_aa.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\guidev_aa.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

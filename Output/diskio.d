@@ -6,7 +6,7 @@
 ..\output\diskio.o: ..\Libraries\FWlib\inc\stm32f4xx_adc.h
 ..\output\diskio.o: ..\Libraries\CMSIS\inc\stm32f4xx.h
 ..\output\diskio.o: ..\Libraries\CMSIS\inc\core_cm4.h
-..\output\diskio.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\diskio.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ..\output\diskio.o: ..\Libraries\CMSIS\inc\core_cmInstr.h
 ..\output\diskio.o: ..\Libraries\CMSIS\inc\core_cmFunc.h
 ..\output\diskio.o: ..\Libraries\CMSIS\inc\core_cm4_simd.h
