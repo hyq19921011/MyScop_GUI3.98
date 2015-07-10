@@ -1,0 +1,26 @@
+﻿output
+Project_Data
+bin
+obj
+*.SchDocPreview
+*.PcbDocPreview
+*.htm
+*.PLC
+*.LOG
+*.bak
+*.ii
+__Previews
+History
+
+
+Project Outputs*
+*.ii
+*.PrjPCBStructure
+output*
+
+/doc/图片库/已删除的项目/desktop.ini
+
+*.PDF
+*.OutJob
+
+pcb
